@@ -1,0 +1,27 @@
+.Allposts-Container {
+    width: 100%;
+    height: 100vh;
+    background-color: green;
+}    
+.Allposts-Card-Container {
+    width: 100%;
+    height: 91%;
+    background-color: #e4e4e4;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+
+}
+.Allposts-Card-box {
+    width: 90%;
+    height:70%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content:space-between;
+    padding: 1rem;
+    overflow-y: auto;
+
+}

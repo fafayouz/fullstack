@@ -1,0 +1,42 @@
+.addadmin-container {
+    width: 70%;
+    height: 70%;
+    background-color: white;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.addadmin-input-- {
+    width: 30%;
+    height: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.addadmin--title--{
+    width: 30%;
+    height: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.btn-add-admin- {
+    width: 65%;
+    height: 50%;
+    background-color: #0CB9CC;
+    color: #961E51;    border-radius: 0.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.0rem;
+    font-weight: bold;
+}

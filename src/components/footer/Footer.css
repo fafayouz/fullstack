@@ -1,0 +1,145 @@
+.Footer-Container {
+    width: 100%;
+    height: 50vh;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+.Footer-Container img {
+    width: 100%;
+    height: 180%;
+    margin-top: -18rem;
+}
+.Footer-Container-- {
+    width: 100%;
+    height: 50.2vh;
+    background-color: #2F3030;
+    position: absolute;
+    opacity: 0.9;
+    margin-top: -27.6rem;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.Footer-Section-One {
+    width: 90%;
+    height: 40vh;
+    position: absolute;
+    margin-top: -27.5rem;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    margin-left: 4rem;
+    
+    
+}
+.Footer-Section-Two {
+    width: 90%;
+    height: 7vh;
+    position: absolute;
+    margin-top: -4rem;
+    margin-left: 4rem;
+    border-top: 1px solid white;
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+
+.Footer-Contact {
+    width: 33%;
+    height: 80%;
+}
+.Footer-Feedback {
+    width: 33%;
+    height: 80%;
+}
+.Footer-Map {
+    width: 33%;
+    height: 80%;
+    background-color: blue;
+    overflow: hidden;
+}
+.Footer-Logo {
+    width: 100%;
+    height: 20%;
+    font-size: 2.1rem;
+    display: flex;
+    align-self: center;
+    color: white;
+}
+
+.Footer-Contact-Informations {
+    width: 100%;
+    height: 80%;
+    color: white;
+    
+}
+.Footer-Informations-Box {
+    width: 100%;
+    height: 25%;
+    display: flex;
+}
+.Footer-Informations-Icon {
+    width: 12%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    color: #0CB9CC;
+}
+.Footer-Informations-Text {
+    width: 75%;
+    height: 100%;
+    display: flex;
+
+}
+.FeedBack-Container {
+    width: 100%;
+    height: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    
+}
+
+.FeedBack-Container span {
+    font-size: 0.7rem;
+    color: rgb(226, 226, 226);
+    
+}
+.FeedBack-Input-Email {
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+}
+.FeedBack-Input-message {
+    width: 100%;
+    height: 50%;
+    margin-top: 0.5rem;
+}
+.Footer-CopyRight {
+    width: 27%;
+    height: 100%;
+    display: flex;
+    color: white;
+    align-items: center;
+    
+}
+.Footer-CopyRight-- {
+    width: 27%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: white;
+    
+}
+.Footer-CopyRight-- a {
+    color: #951F52;
+    text-decoration: none;
+}
